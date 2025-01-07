@@ -1,6 +1,15 @@
-# 🚗 **Projeto Carro & Fabricante API** 🚗
+##  **PROJETO**
 
-Este é um projeto de uma API RESTful construída com **Spring Boot** para gerenciar informações sobre **Carros** e **Fabricantes**. A API permite realizar operações de CRUD (Criar, Ler, Atualizar, Deletar) tanto para os carros quanto para os fabricantes. Além disso, também inclui a autenticação de usuários com senhas.
+Este projeto é um clone de [https://github.com/leoinfnet/trabalho_final_react_noite](https://github.com/leoinfnet/trabalho_final_react_noite).
+Algumas pequenas alterações foram feitas para adequação ao projeto [frontend-car-api](https://github.com/leoinfnet/trabalho_final_react_noite).
+
+Créditos: [Professor Leonardo Glória](https://react-spring-back-car.onrender.com).
+
+Link da API em produção no [Render](https://render.com/): [API-CAR](https://github.com/leoinfnet).
+
+**Descrição Original do Projeto**
+
+Este é um projeto de uma API RESTful construída com **Spring Boot** para gerenciar informações sobre **Carros**. A API permite realizar operações de CRUD (Criar, Ler, Atualizar, Deletar) para os carros. Além disso, também inclui a autenticação de usuários com senhas.
 
 ## 📦 **Tecnologias Utilizadas**
 
@@ -24,8 +33,8 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 #### Clonando o Repositório
 
 ```bash
-git clone https://github.com/leoinfnet/trabalho_final_react_noite.git
-cd projeto-carro-fabricante
+git clone https://github.com/flavio-vicentini-poa/react-spring-back
+cd react-spring-back
 ```
 
 #### Contruindo com Maven
@@ -36,22 +45,4 @@ mvn clean install -Dmaven.test.skip
 ```bash
 mvn spring-boot:run
 ```
-
-### 3. **Rodando com Docker**
-```bash
-docker run -p 8080:8080 leogloriainfnet/cars:tagname
-```
-### Obs: Visite a URL do Projeto no DockerHub e e configura qual arquiteutra voce deve rodar
-- [leogloriainfnet/cars](https://hub.docker.com/repository/docker/leogloriainfnet/cars/general)
-
-## 📦 Testando
-Na pasta [collections](https://github.com/leoinfnet/trabalho_final_react_noite/tree/main/collections) existem dois arquivos para serem importados tanto no postman quanto no insomnia com exemplos de todas as urls.
-
-
-
----
-⌨️ com ❤️ por [Leonardo Gloria] 😊
-
-
-
 
