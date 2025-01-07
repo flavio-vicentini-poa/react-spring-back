@@ -1,11 +1,11 @@
 ##  **PROJETO**
 
 Este projeto é um clone de [https://github.com/leoinfnet/trabalho_final_react_noite](https://github.com/leoinfnet/trabalho_final_react_noite).
-Algumas pequenas alterações foram feitas para adequação ao projeto [frontend-car-api](https://github.com/leoinfnet/trabalho_final_react_noite).
+Algumas pequenas alterações foram feitas para adequação ao projeto [react-spring-front](https://github.com/flavio-vicentini-poa/react-spring-front).
 
-Créditos: [Professor Leonardo Glória](https://react-spring-back-car.onrender.com).
+Créditos: [Professor Leonardo Glória](https://github.com/leoinfnet).
 
-Link da API em produção no [Render](https://render.com/): [API-CAR](https://github.com/leoinfnet).
+Link da API em produção no [Render](https://render.com/): [API-CAR](https://react-spring-back-car.onrender.com).
 
 **Descrição Original do Projeto**
 
